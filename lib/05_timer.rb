@@ -22,5 +22,3 @@ def time_string(seconds)
   end
   return time_display.join(":")
 end
-
-time_string(4000)
